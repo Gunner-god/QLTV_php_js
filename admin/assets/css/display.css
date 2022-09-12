@@ -1,0 +1,8 @@
+#display-image {
+    width: 60%;
+    height: 50%;
+    border: 1px solid rgb(49, 228, 103);
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 10px;
+}
